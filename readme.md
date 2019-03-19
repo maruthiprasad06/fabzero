@@ -16,6 +16,8 @@ brief explaination about the equipments were given by Mentor-
 - Laser cutter
 - Carbon filter
 - 3D printers
+![3Dprinter](img/3dprinter.jpg)
+![3Dprinter1](img/3dprinter1.jpg)
 - Milling machine
 - Microscope Camera
 - Electronic equipments like
