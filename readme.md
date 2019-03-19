@@ -9,7 +9,7 @@ Colleagues from different STPI centres introduced themselves
 We had a brief description on Fablabs by Mr.Francisco
 After that we had lunch break   
 We had tour to the Fablabs situated at First Floor 
-The equipments briefed were - 
+brief explaination about the equipments were given by Mentor- 
 - Vinyl Cutter
 - Laser cutter
 - Carbon filter
@@ -23,8 +23,9 @@ The equipments briefed were -
 - Automatic scroll machine 
 - Object waterjet
 - Desoldering gun
- After that we had a Tea break
+ After that we had a Tea break for 15minutes
  Then we created Github account - Repository - Fabzero
+
 
 
 
