@@ -23,6 +23,7 @@ brief explaination about the equipments were given by Mentor-
 - Automatic scroll machine 
 - Object waterjet
 - Desoldering gun
+
  After that we had a Tea break for 15minutes
  Then we created Github account - Repository - Fabzero
 
