@@ -31,7 +31,7 @@ brief explaination about the equipments were given by Mentor-
  After that we had a Tea break for 15minutes
  Then we created Github account - Repository - Fabzero
 
- Day 2 at Fabzero (19.03.19)
+ - Day 2 at Fabzero (19.03.19)
  
  Mentor instructed to install the following softwares in our laptop
  - Code Spell checker
@@ -40,10 +40,17 @@ brief explaination about the equipments were given by Mentor-
  - git for windows
  
  Then we created username and user email in the git login
- After the successfull installation we did cloning the readme file by copying the address and then
+ After the Successfull installation we did cloning of the readme file by copying the address and then
  we tried updating the file and then we saved the file by commit and then pushing the file to the 
  repository. 
  Then we have started taking pictures of the equipment's and uploading in the repository. After that we had lunch break. 
+ After the lunch break we sorted out inventory of electronic devices.
+ Next Mentor briefed us about the functionality of the 3D Printer, unloading of the filament, cleaning of 
+ the waste, cooling procedure of the printer, etc.
+ And next Mentor briefed us about the Vinyl cutter, how to load the sheet, how to keep the edge points on
+ the sheet.
+ Next we had tea break.
+ Did all the documentation of today's work in the repository.
 
 
 
