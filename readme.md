@@ -26,6 +26,8 @@ brief explaination about the equipments were given by Mentor-
  After that we had a Tea break for 15minutes
  Then we created Github account - Repository - Fabzero
 
+ Day 2 at Fabzero (19.03.19)
+
 
 
 
