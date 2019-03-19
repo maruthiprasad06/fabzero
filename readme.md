@@ -22,9 +22,9 @@ The equipments briefed were -
 - Power supply
 - Automatic scroll machine 
 - Object waterjet
--  Desoldering gun
-After that we had a Tea break
-Then we created Github account - Repository - Fabzero
+- Desoldering gun
+ After that we had a Tea break
+ Then we created Github account - Repository - Fabzero
 
 
 
