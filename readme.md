@@ -11,6 +11,8 @@ After that we had lunch break
 We had tour to the Fablabs situated at First Floor 
 brief explaination about the equipments were given by Mentor- 
 - Vinyl Cutter
+
+![vinylcutter](img/vinylcutter.jpg)
 - Laser cutter
 - Carbon filter
 - 3D printers
@@ -37,7 +39,7 @@ brief explaination about the equipments were given by Mentor-
  
  Then we created username and user email in the git login
  After the successfull installation we did cloning the readme file by copying the address and then
- we did tried updating the file and then we saved the file by commit and then pushing the file to the 
+ we tried updating the file and then we saved the file by commit and then pushing the file to the 
  repository. 
 
 
