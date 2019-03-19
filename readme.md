@@ -43,6 +43,7 @@ brief explaination about the equipments were given by Mentor-
  After the successfull installation we did cloning the readme file by copying the address and then
  we tried updating the file and then we saved the file by commit and then pushing the file to the 
  repository. 
+ Then we have started taking pictures of the equipment's and uploading in the repository. After that we had lunch break. 
 
 
 
