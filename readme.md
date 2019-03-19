@@ -31,7 +31,12 @@ brief explaination about the equipments were given by Mentor-
  Mentor instructed to install the following softwares in our laptop
  -Code Spell checker
  -inkscape software
- -cura software
+ -cura software and 
+ -git for windows
+ Then we created username and user email in the git login
+ After the successfull installation we did cloning the readme file by copying the address and then
+ we did tried updating the file and then we saved the file by commit and then pushing the file to the 
+ repository. 
 
 
 
