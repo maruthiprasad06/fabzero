@@ -50,6 +50,7 @@ brief explaination about the equipments were given by Mentor-
  And next Mentor briefed us about the Vinyl cutter, how to load the sheet, how to keep the edge points on
  the sheet.
  Next we had tea break.
+ We installed 3DWOX software for 3D printing
  Did all the documentation of today's work in the repository.
 
 
