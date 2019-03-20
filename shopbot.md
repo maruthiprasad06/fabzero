@@ -1,0 +1,1 @@
+Founded in 1996 in Durham, North Carolina, ShopBot Tools, Inc., designs, manufactures and distributes CNC (Computer Numerically Controlled) routers for milling, drilling, and cutting of wood, plastic, metals and other materials -- powerfully, precisely, and affordably.  
