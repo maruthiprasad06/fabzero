@@ -6,7 +6,7 @@ Hello I am is Maruthi Prasad
 Day 1 @ Fabzero 
 At 11AM inaguration of Fablabs by DG and inagural speech by STPI-Bhubaneshwar Director   
 Colleagues from different STPI centres introduced themselves
-We had a brief description on Fablabs by Mr.Francisco
+We had a brief description on Fablabs by Mentors Mr.Francisco and Mr.Shibu
 After that we had lunch break   
 We had tour to the Fablabs situated at First Floor 
 brief explaination about the equipments were given by Mentor- 
@@ -19,11 +19,12 @@ brief explaination about the equipments were given by Mentor-
 - To cut out the design a vector based image must be created in software programme.It is then sent to the cutter where it cuts along the vector path laid out in the design.The major limitations with vinyl cutter is that they can only cut shapes from solid colors of vinyl. 
 
 - In our fab lab we use Roland vinyl cutter.It has a sharp blade to cut the materialsand it can move in X and Y axis.Tha commonly used materials in vinyl cutter is vinyl sheet ,paper etc Our instructor gave us an introduction to the Roland vinyl cutter and information on how to set up the machine like setting the origin, changing the material types to roller or pieces, he even demonstrated a test cut to show us the procedures involved.We used the Fab module in ubuntu to set up the file and to adjust the cutting force and speed. Our instructor also showed us how to transfer the pieces of vinyl to the required surface using a masking tape.
+
 - Laser cutter
 - Carbon filter
 - 3D printers 
-- A 3d printers can create a physical model of virtually any shape through the extrusion of plastic based filament (PLA, ABS). There are a few different printers available within the Lab.---- 
--
+- A 3d printers can create a physical model of virtually any shape through the extrusion of plastic based filament (PLA, ABS). There are a few different printers available within the Lab.
+
 ![3Dprinter](img/3dprinter.jpg)
 ![3Dprinter1](img/3dprinter1.jpg)
 - Milling machine
