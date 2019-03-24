@@ -21,7 +21,9 @@ brief explaination about the equipments were given by Mentor-
 - In our fab lab we use Roland vinyl cutter.It has a sharp blade to cut the materialsand it can move in X and Y axis.Tha commonly used materials in vinyl cutter is vinyl sheet ,paper etc Our instructor gave us an introduction to the Roland vinyl cutter and information on how to set up the machine like setting the origin, changing the material types to roller or pieces, he even demonstrated a test cut to show us the procedures involved.We used the Fab module in ubuntu to set up the file and to adjust the cutting force and speed. Our instructor also showed us how to transfer the pieces of vinyl to the required surface using a masking tape.
 - Laser cutter
 - Carbon filter
-- 3D printers
+- 3D printers 
+- A 3d printers can create a physical model of virtually any shape through the extrusion of plastic based filament (PLA, ABS). There are a few different printers available within the Lab.---- 
+-
 ![3Dprinter](img/3dprinter.jpg)
 ![3Dprinter1](img/3dprinter1.jpg)
 - Milling machine
