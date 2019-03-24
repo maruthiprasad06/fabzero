@@ -1,9 +1,9 @@
 # Maruthi Prasad fabzero experience
 
-Hello my name is Maruthi Prasad
+Hello I am is Maruthi Prasad 
 
 ## Introduction (18.03.19)
-Brief experience on day 1 Fabzero 
+Day 1 @ Fabzero 
 At 11AM inaguration of Fablabs by DG and inagural speech by STPI-Bhubaneshwar Director   
 Colleagues from different STPI centres introduced themselves
 We had a brief description on Fablabs by Mr.Francisco
@@ -13,6 +13,9 @@ brief explaination about the equipments were given by Mentor-
 - Vinyl Cutter
 
 ![vinylcutter](img/vinylcutter.jpg)
+- Vinyl cutter is a computer controlled cutting machine.Its working is same as a printer.Like a printer controls a nozzle,the computer controlsthe movement of asharp blade over the surface of the material.This blade is used to cut out shapes and letters from sheets of thin self adhesive plastics. 
+---
+- To cut out the design a vector based image must be created in software programme.It is then sent to the cutter where it cuts along the vector path laid out in the design.The major limitations with vinyl cutter is that they can only cut shapes from solid colors of vinyl. 
 - Laser cutter
 - Carbon filter
 - 3D printers
@@ -60,6 +63,7 @@ brief explaination about the equipments were given by Mentor-
 
  #Day 4 at Fablab
  Mentor instructed to install the Freecad software. Then Mentor Mr.Shibu taught us about the designing of the electronic circuit board. We did the designing in the Kicad software. Next we tried printing the few 3D models of other colleagues.
+ 
 
 
 
