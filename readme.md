@@ -7,6 +7,8 @@ Day 1 @ Fabzero
 At 11AM inaguration of Fablabs by DG and inagural speech by STPI-Bhubaneshwar Director   
 Colleagues from different STPI centres introduced themselves
 We had a brief description on Fablabs by Mentors Mr.Francisco and Mr.Shibu
+
+
 After that we had lunch break   
 We had tour to the Fablabs situated at First Floor 
 brief explaination about the equipments were given by Mentor- 
