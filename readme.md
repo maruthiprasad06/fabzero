@@ -13,9 +13,12 @@ brief explaination about the equipments were given by Mentor-
 - Vinyl Cutter
 
 ![vinylcutter](img/vinylcutter.jpg)
+
 - Vinyl cutter is a computer controlled cutting machine.Its working is same as a printer.Like a printer controls a nozzle,the computer controlsthe movement of asharp blade over the surface of the material.This blade is used to cut out shapes and letters from sheets of thin self adhesive plastics. 
----
+
 - To cut out the design a vector based image must be created in software programme.It is then sent to the cutter where it cuts along the vector path laid out in the design.The major limitations with vinyl cutter is that they can only cut shapes from solid colors of vinyl. 
+
+- In our fab lab we use Roland vinyl cutter.It has a sharp blade to cut the materialsand it can move in X and Y axis.Tha commonly used materials in vinyl cutter is vinyl sheet ,paper etc Our instructor gave us an introduction to the Roland vinyl cutter and information on how to set up the machine like setting the origin, changing the material types to roller or pieces, he even demonstrated a test cut to show us the procedures involved.We used the Fab module in ubuntu to set up the file and to adjust the cutting force and speed. Our instructor also showed us how to transfer the pieces of vinyl to the required surface using a masking tape.
 - Laser cutter
 - Carbon filter
 - 3D printers
