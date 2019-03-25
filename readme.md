@@ -43,7 +43,7 @@ brief explaination about the equipments were given by Mentor-
  After that we had a Tea break for 15minutes
  Then we created Github account - Repository - Fabzero
 
- ##Day 2 at Fablab (19/03/19)
+ ## Day 2 at Fablab (19/03/19)
  
  Mentor instructed to install the follo/wing softwares in our laptop
  - Code Spell checker
@@ -65,13 +65,13 @@ brief explaination about the equipments were given by Mentor-
  We installed 3DWOX software for 3D printing
  Did all the documentation of today's work in the repository.
 
- ##Day 3 at Fablab (20/03/19)
+ ## Day 3 at Fablab (20/03/19)
 
  Started the day with the installation of Kicad software. Its useful for the designing the electronic suecreek boards. Learnt the functionality of the Kicad software. After that we had Lunch break.
 
  After that we had hands on the Vinyl cutter. We wrote our name in the inkscape software and then converted that image to the bitmap format. Mentor informed about the fabmodules.org with this software we can print our names, logo, design, etc. I printed a 3D design model of compass
 
- ##Day 4 at Fablab (21/03/19)
+ ## Day 4 at Fablab (21/03/19)
 
  Mentor instructed to install the Freecad software. Then Mentor Mr.Shibu taught us about the designing of the electronic circuit board. We did the designing in the Kicad software. Next we tried printing the few 3D models of other colleagues.
 
