@@ -72,6 +72,20 @@ brief explaination about the equipments were given by Mentor-
 
  #Day 4 at Fablab
  Mentor instructed to install the Freecad software. Then Mentor Mr.Shibu taught us about the designing of the electronic circuit board. We did the designing in the Kicad software. Next we tried printing the few 3D models of other colleagues.
+
+ ## Day 5 at Fablab (25/03/19)
+
+ Today mentor discussed about the importance of few topics as below :
+ - Supply vs Demand time
+ - Freecad 3D
+ - KiCAD - PNG 
+ - Documentation
+ - Programming
+ - 3D Scanning
+ - Moulding and Casting
+
+ Mentor Mr.Shibu informed about the PCB design. And also he explained about the Programming concepts. 
+
  
 
 
