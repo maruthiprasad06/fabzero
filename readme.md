@@ -1,9 +1,10 @@
 # Maruthi Prasad fabzero experience
 
-Hello I am is Maruthi Prasad 
+Hello I am Maruthi Prasad 
 
 ## Introduction (18.03.19)
-Day 1 @ Fabzero 
+- Day 1 @ Fablab  
+
 At 11AM inaguration of Fablabs by DG and inagural speech by STPI-Bhubaneshwar Director   
 Colleagues from different STPI centres introduced themselves
 We had a brief description on Fablabs by Mentors Mr.Francisco and Mr.Shibu
