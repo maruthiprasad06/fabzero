@@ -120,7 +120,7 @@ brief explaination about the equipments were given by Mentor-
 - You can press space on the keyboard
 - You can click with the mouse
 
- ![emergencyswitche](img/emergencyswitche.jpg)
+  ![emergencyswitche](img/emergencyswitche.jpg)
 
 
 
