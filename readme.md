@@ -29,7 +29,7 @@ brief explaination about the equipments were given by Mentor-
 - A 3d printers can create a physical model of virtually any shape through the extrusion of plastic based filament (PLA, ABS). There are a few different printers available within the Lab.
 
 ![3Dprinter](img/3dprinter.jpg)
-![3Dprint](img/3dprint.jpg)
+![3Dprint](img/3Dprint.jpg)
 - Milling machine
 - Microscope Camera
 - Electronic equipments like
