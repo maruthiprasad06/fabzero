@@ -130,9 +130,10 @@ PCB or Printed circuit boards are circuit boards having copper clading which mec
 Roland model SRM 20 is a desktop version of the PCB milling machine available at our fab lab.It is compatible with most of the 2D and 3D CAD softwares. It has a small bed which moves in the Y-axis, a Tool head which moves in the X-axis and a bit attached to it moving in Z-axis.We are using Fab Module software to operate the machine. The input is mainly .png and output is .rml file. Image is always a black and white layout of the board, the black portions will be milled and the white portion is where the copper will be left.The main operations performed by this machine are:
 
 - milling -to mill traces to get the circuit board pattern using the 1/64th inch (0.4mm) bit.
- ![32image](img/32image.jpg)
+ ![64image](img/64image.jpg)
 - cutting -to cut out the board from the base copper clad using the 1/32th (0.8mm) inch bit.
-  ![64image](img/64image.jpg)
+ ![32image](img/32image.jpg)
+  
  
 SRM20 machine is a PCB milling machine,which can be controlled by fab modules .The fab modules which accepts the .png extention file and next we move to mill the pcb, for that open Fab Modules and give .png as the input format, select modela as the machine. Then load the traces.png file and then make path. Leave the settings as such. 
 I learned how to mill the PCB using miller and learned fab module also. 
