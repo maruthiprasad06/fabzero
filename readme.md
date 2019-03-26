@@ -91,7 +91,7 @@ brief explaination about the equipments were given by Mentor-
  ## Day 6 at Fablab (26/03/19)
  
  Today we started with introduction to ShopBot. The Shopbot is a CNC that can cut materials like wood, acrylic and even soft metals. Based on the design, you can cut 2D and 3D files.  This CNC delivers affordable, full-production performance in digital fabrication of wood, plastic, aluminum, and other materials. 
- 
+
  ![Shopbot](img/Shopbot.jpg)
   
  In order to use the machine, three different software components are used: 
@@ -119,6 +119,10 @@ brief explaination about the equipments were given by Mentor-
 - There are two emergency stop buttons that you can hit
 - You can press space on the keyboard
 - You can click with the mouse
+
+![Shopbotemergencyswitches](img/Shopbotemergencyswitches)
+
+
 
  
 
