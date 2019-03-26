@@ -125,7 +125,7 @@ brief explaination about the equipments were given by Mentor-
 # PCB Milling 
 The FABISP is an in-system programmer for AVR microcontrollers, designed for production within a FabLab. That is, it allows you to program the microcontrollers on other boards you make, using nothing but a USB cable and 6 pin IDC to 6 pin IDC cable.The FAB ISP production files are already available in the Fab academy archives, I downloaded the files from Fab academy archieves.To mill the Hello echo world board first opened it in eagle,which is a PCB designing software.Next step is to mill the PCB.For milling the PCB we used SRM20 machine in our lab. 
 
-![PCBmilling](img.PCBmilling.jpg)
+ ![PCBmilling](img.PCBmilling.jpg)
 
 SRM20 machine is a PCB milling machine,which can be controlled by fab modules .The fab modules which accepts the .png extention file and next we move to mill the pcb, for that open Fab Modules and give .png as the input format, select modela as the machine. Then load the traces.png file and then make path. Leave the settings as such. 
 I learned how to mill the PCB using miller and learned fab module also. 
