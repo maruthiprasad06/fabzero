@@ -130,8 +130,12 @@ The FABISP is an in-system programmer for AVR microcontrollers, designed for pro
 SRM20 machine is a PCB milling machine,which can be controlled by fab modules .The fab modules which accepts the .png extention file and next we move to mill the pcb, for that open Fab Modules and give .png as the input format, select modela as the machine. Then load the traces.png file and then make path. Leave the settings as such. 
 I learned how to mill the PCB using miller and learned fab module also. 
 
-milling -to mill traces to get the circuit board pattern using the 1/64th inch (0.4mm) bit.
-cutting -to cut out the board from the base copper clad using the 1/32th (0.8mm) inch bit.
+- milling -to mill traces to get the circuit board pattern using the 1/64th inch (0.4mm) bit.
+- cutting -to cut out the board from the base copper clad using the 1/32th (0.8mm) inch bit.
+ ![32image](img/32image.jpg)
+ ![64image](img/64image.jpg)
+ 
+
 
 
  
