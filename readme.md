@@ -98,12 +98,15 @@ brief explaination about the equipments were given by Mentor-
 - Specify the tool details and calculate tool paths
 - Preview the job in any material
 - Save the CNC code (save the tool paths)
-
 # Turning it on - checklist
 - Flip the big switch on the front (cooling fan on spindle will turn on)
 - Press reset button on pendant (VFD will turn on)
 - Set VFD to 150.0
 - Turn on Shopbot 3 software
+# Zeroing the table
+- Use hand control window to move bit to it's zero point
+- In the main window, select zero->zero three axis
+- Move z axis to safe height
 
  
 
