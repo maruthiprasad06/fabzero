@@ -143,6 +143,22 @@ The setting and operations of the milling machine are as follows:
 
  ![fixingpcb](img/fixingpcb.jpg)
 
+ 3).Switch on the machine,load the fab modules(we are using the offline version in our lab). Select the trace for milling,give the output option and for tracing choose 1/64 bit.
+  Now for milling the offset ,speed and depth are already set we just have to note down the x and y position for performint the cutting operation.
+
+4).Now press the view button on the machine.The plate will come front and the head will move to right.load the 1/64 inch bit to the head .While loading the bit always put a sponge at the bottom to add an extra safety for the bit, if it falls.We are using allen key to fix the bit on position. 
+
+5).Now press the view button again to move to (0,0)position.Use the x and y values in the print manager(fab modules) to correct the position of bit with the PCB.It is actually a kind of trail and error process.
+
+6).Recheck the space left in the Z axis for the bit to move down,also if the bit is touching the material and start the operation.
+
+7).After milling operation, load the png file for cut.
+- load the 1/32 bit,give the x and y values and perform the cutting operation.
+
+8).After the operation we have to vaccum down the dust using a vaccum cleaner.
+
+
+
 
 
 
