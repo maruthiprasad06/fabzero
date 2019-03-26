@@ -134,9 +134,17 @@ Roland model SRM 20 is a desktop version of the PCB milling machine available at
 - cutting -to cut out the board from the base copper clad using the 1/32th (0.8mm) inch bit.
  ![32image](img/32image.jpg)
   
+# Setting up the machine and PCB milling
+The setting and operations of the milling machine are as follows:
+
+ 1).The machine has a base metal plate on to which we have to paste the PCB for cutting.So in between the metal plate and the PCB we have to put some layer to reduce the risk of bit hitting the plate.this layer is known as sacrificial layer.You can use another PCB as sacrificial layer. 
+
+ 2).The PCB as well as the sacrificial layer is fixed to the base plate by using double sided tape.We should be careful that while pasting there should not be any air bubble as this slight variation in level can affect the milling operation.
+ ![fixingpcb](img/fixingpcb.img)
+
  
-SRM20 machine is a PCB milling machine,which can be controlled by fab modules .The fab modules which accepts the .png extention file and next we move to mill the pcb, for that open Fab Modules and give .png as the input format, select modela as the machine. Then load the traces.png file and then make path. Leave the settings as such. 
-I learned how to mill the PCB using miller and learned fab module also. 
+
+
 
 
 
