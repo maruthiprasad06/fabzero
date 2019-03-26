@@ -88,6 +88,9 @@ brief explaination about the equipments were given by Mentor-
 
  Mentor Mr.Shibu informed about the PCB design. And also he explained about the Programming concepts. 
 
+ ## Day 6 at Fablab (26/03/19)
+ Today we started with introduction to ShopBot. ShopBot is a CNC solution for production that delivers high performance, high volume, speed and reliable power for all cutting tasks. This CNC delivers affordable, full-production performance in digital fabrication of wood, plastic, aluminum, and other materials. 
+
  
 
 
