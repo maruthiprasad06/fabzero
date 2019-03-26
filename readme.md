@@ -91,19 +91,19 @@ brief explaination about the equipments were given by Mentor-
  ## Day 6 at Fablab (26/03/19)
  Today we started with introduction to ShopBot. ShopBot is a CNC solution for production that delivers high performance, high volume, speed and reliable power for all cutting tasks. This CNC delivers affordable, full-production performance in digital fabrication of wood, plastic, aluminum, and other materials. 
 
-- How to Use Shopbot?
- Loading Design
- Open or Import the vector design
- Select the regions to VCarve or machine
- Specify the tool details and calculate tool paths
- Preview the job in any material
- Save the CNC code (save the tool paths)
+# How to Use Shopbot?
+- Loading Design
+- Open or Import the vector design
+- Select the regions to VCarve or machine
+- Specify the tool details and calculate tool paths
+- Preview the job in any material
+- Save the CNC code (save the tool paths)
 
- Turning it on - checklist
- Flip the big switch on the front (cooling fan on spindle will turn on)
- Press reset button on pendant (VFD will turn on)
- Set VFD to 150.0
- Turn on Shopbot 3 software
+# Turning it on - checklist
+- Flip the big switch on the front (cooling fan on spindle will turn on)
+- Press reset button on pendant (VFD will turn on)
+- Set VFD to 150.0
+- Turn on Shopbot 3 software
 
  
 
