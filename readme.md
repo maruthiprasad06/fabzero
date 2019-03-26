@@ -140,8 +140,8 @@ The setting and operations of the milling machine are as follows:
  1).The machine has a base metal plate on to which we have to paste the PCB for cutting.So in between the metal plate and the PCB we have to put some layer to reduce the risk of bit hitting the plate.this layer is known as sacrificial layer.You can use another PCB as sacrificial layer. 
 
  2).The PCB as well as the sacrificial layer is fixed to the base plate by using double sided tape.We should be careful that while pasting there should not be any air bubble as this slight variation in level can affect the milling operation.
- 
- ![fixingpcb](img/fixingpcb.img)
+
+ ![fixingpcb](img/fixingpcb.jpg)
 
 
 
