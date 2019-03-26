@@ -89,7 +89,14 @@ brief explaination about the equipments were given by Mentor-
  Mentor Mr.Shibu informed about the PCB design. And also he explained about the Programming concepts. 
 
  ## Day 6 at Fablab (26/03/19)
- Today we started with introduction to ShopBot. ShopBot is a CNC solution for production that delivers high performance, high volume, speed and reliable power for all cutting tasks. This CNC delivers affordable, full-production performance in digital fabrication of wood, plastic, aluminum, and other materials. 
+ 
+ Today we started with introduction to ShopBot. The Shopbot is a CNC that can cut materials like wood, acrylic and even soft metals. Based on the design, you can cut 2D and 3D files.  This CNC delivers affordable, full-production performance in digital fabrication of wood, plastic, aluminum, and other materials. 
+ ![shopbot](img/shopbot.jpg)
+  
+ In order to use the machine, three different software components are used: 
+ - A design software like Rhino to model 2D or 3D shapes.
+ - Vcarve pro software to create the toolpath for the machine.
+ - Shopbot software to set the origin for the machine and feed the toolpath file.
 
 # How to Use Shopbot?
 - Loading Design
@@ -107,6 +114,10 @@ brief explaination about the equipments were given by Mentor-
 - Use hand control window to move bit to it's zero point
 - In the main window, select zero->zero three axis
 - Move z axis to safe height
+# Emergencies
+- There are two emergency stop buttons that you can hit
+- You can press space on the keyboard
+- You can click with the mouse
 
  
 
