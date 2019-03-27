@@ -122,6 +122,11 @@ brief explaination about the equipments were given by Mentor-
 
 ![emergencyswitch](img/emergencyswitch.jpeg)
 
+ # Safety Precautions
+ Safety always comes first when we are gonna use CNC machines or other big machines anywhere. We always double check the safety gears when using CNC machines in Fablab. Here is the Safety Gears we use in our Fablab.
+ ![cncsafety](img/cncsafety.jpg)
+ 
+
 # PCB Fabrication
 PCB or Printed circuit boards are circuit boards having copper clading which mechanically supports and electrically connects different electrical components.There are single side PCB's,double sided PCB's as well as multi layered PCB's available.In single side PCB's we have a copper layer above a substrate of non conducting layer.In double sided PCB's we have two layers of copper at top and bottom of the substrate whereas in multi layered PCB's we have alternating layers of copper between substate layers.In our lab we are using FR-1 type which is a single side PCB.In PCB's we can remove the copper and create circuit pathways by different methods like milling ,etching,plating,lamination etc.,in our lab we will be using the milling operation using Roland Model SRM 20.
 
