@@ -12,24 +12,12 @@ We had a brief description on Fablabs by Mentors Mr.Francisco and Mr.Shibu
 
 After that we had lunch break   
 We had tour to the Fablabs situated at First Floor 
-brief explaination about the equipments were given by Mentor- 
-- Vinyl Cutter
 
-![vinylcutter](img/vinylcutter.jpg)
-
-- Vinyl cutter is a computer controlled cutting machine.Its working is same as a printer.Like a printer controls a nozzle,the computer controlsthe movement of asharp blade over the surface of the material.This blade is used to cut out shapes and letters from sheets of thin self adhesive plastics. 
-
-- To cut out the design a vector based image must be created in software programme.It is then sent to the cutter where it cuts along the vector path laid out in the design.The major limitations with vinyl cutter is that they can only cut shapes from solid colors of vinyl. 
-
-- In our fab lab we use Roland vinyl cutter.It has a sharp blade to cut the materialsand it can move in X and Y axis.Tha commonly used materials in vinyl cutter is vinyl sheet ,paper etc Our instructor gave us an introduction to the Roland vinyl cutter and information on how to set up the machine like setting the origin, changing the material types to roller or pieces, he even demonstrated a test cut to show us the procedures involved.We used the Fab module in ubuntu to set up the file and to adjust the cutting force and speed. Our instructor also showed us how to transfer the pieces of vinyl to the required surface using a masking tape.
-
+List of the equipments available in the Fablab are : 
+- Vinyl Cutter ![vinylcutter](img/vinylcutter.jpg)
 - Laser cutter
 - Carbon filter
-- 3D printers 
-- A 3d printers can create a physical model of virtually any shape through the extrusion of plastic based filament (PLA, ABS). There are a few different printers available within the Lab.
-
-![3Dprinter](img/3dprinter.jpg)
-![3Dprint](img/3Dprint.jpg)
+- 3D printers ![3Dprinter](img/3dprinter.jpg) ![3Dprint](img/3Dprint.jpg)
 - Milling machine
 - Microscope Camera
 - Electronic equipments like
@@ -124,8 +112,13 @@ brief explaination about the equipments were given by Mentor-
 
  # Safety Precautions
  Safety always comes first when we are gonna use CNC machines or other big machines anywhere. We always double check the safety gears when using CNC machines in Fablab. Here is the Safety Gears we use in our Fablab.
+- SAFETY GLOVES
+- SAFETY GOGGLES
+- EAR MUFFS PROTECTORS
+- EAR PLUGS
+- DUST MASKS
+
  ![cncsafety](img/cncsafety.jpg)
- 
 
 # PCB Fabrication
 PCB or Printed circuit boards are circuit boards having copper clading which mechanically supports and electrically connects different electrical components.There are single side PCB's,double sided PCB's as well as multi layered PCB's available.In single side PCB's we have a copper layer above a substrate of non conducting layer.In double sided PCB's we have two layers of copper at top and bottom of the substrate whereas in multi layered PCB's we have alternating layers of copper between substate layers.In our lab we are using FR-1 type which is a single side PCB.In PCB's we can remove the copper and create circuit pathways by different methods like milling ,etching,plating,lamination etc.,in our lab we will be using the milling operation using Roland Model SRM 20.
