@@ -22,10 +22,10 @@ The trainees are being mentored by Mr. Francisco Sanchez and Mr.Sibu Saman. The 
    
 List of the equipments available in the Fablab are as follows: 
 
-- Vinyl Cutter ![vinylcutter](img/vinylcutter.jpg)
+- Vinyl Cutter 
 - Laser cutter
 - Carbon filter
-- 3D printers ![3Dprinter](img/3dprinter.jpg) ![3Dprint](img/3Dprint.jpg)
+- 3D printers 
 - Milling machine
 - Microscope Camera
 - Electronic equipments like
@@ -37,6 +37,12 @@ List of the equipments available in the Fablab are as follows:
 - Desoldering gun
 
  After that we had a Tea break for 15minutes
+
+ # List of the equipment images
+ ![vinylcutter](img/vinylcutter.jpg)
+ ![3Dprinter](img/3dprinter.jpg)
+ ![3Dprint](img/3Dprint.jpg)
+
  Then we created Github account - Repository - Fabzero
 
  ## Day 2 at Fablab (19/03/19)
