@@ -181,13 +181,8 @@ We did the soldering to the PCB. The components used are
 
 
 
-
-
-
-
-
-
 ## Day 8 at Fablab (28/03/19)
+Mentor Mr.Francisco informed about the final project which has to be submitted on 5th April 2019. He also informed about the pending topics which are going to be covered in the coming weeks.
 
 
 
