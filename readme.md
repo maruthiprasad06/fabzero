@@ -155,6 +155,26 @@ The setting and operations of the milling machine are as follows:
 
 8).After the operation we have to vaccum down the dust using a vaccum cleaner.
 
+## Day 7 at Fablab (27/03/19)
+We did the soldering to the PCB. The components used are
+- Resistors - 500 ohm (2 no's)
+- Resistors - 10k (2 no's)
+- Capacitor 1 microfarad (1 no)
+- LED (2 no's)
+- Microcontroller (1 no)
+- Switch Button (1 no)
+- ISP header (1 no)
+
+
+
+
+
+
+
+
+
+## Day 8 at Fablab (28/03/19)
+
 
 
 
